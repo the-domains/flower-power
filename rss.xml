@@ -4,7 +4,7 @@
         <description><![CDATA[Die Schwingung macht's]]></description>
         <link>https://thegrid.ai/flower-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 20:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 20:37:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/flower-power/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mit Blüten & Samen Fotos und Essenzen]]></title>
@@ -12,6 +12,13 @@
             <link>http://flowerenergies.com/blueten-samen.html</link>
             <guid isPermaLink="false">18cc4053-1994-4a3d-8846-66d078958ab8</guid>
             <pubDate>Sun, 21 Aug 2016 20:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mit Bach-Blüten Fotos & Essenzen]]></title>
+            <description><![CDATA[<article><h1>mit Bach-Blüten Fotos & Essenzen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e199758-71a9-4ede-a875-950536f10a6c.jpg"></article>]]></description>
+            <link>http://flowerenergies.com/bach-blueten.html</link>
+            <guid isPermaLink="false">cc821d2b-f4d1-4abc-88a9-577be358d253</guid>
+            <pubDate>Sun, 21 Aug 2016 20:37:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
