@@ -22,5 +22,8 @@ navigation:
   - name: Orchideen-Essenzen
     url: 'http://healingorchids.at'
     type: external
+  - name: Widerstände auflösen
+    url: 'http://heilpraxismaier.de'
+    type: external
 title: Die Schwingung macht's
 description: Aktiviere dein Potential
