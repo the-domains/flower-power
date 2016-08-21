@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-21T20:37:12.850Z'
+datePublished: '2016-08-21T20:40:04.645Z'
+sourcePath: _posts/2016-08-21-mit-bach-bluten-fotos-and-essenzen.md
 isBasedOnUrl: 'http://flowerenergies.com/bach-blueten.html'
 author: []
 via: {}
-dateModified: '2016-08-21T20:36:11.114Z'
+dateModified: '2016-08-21T20:40:04.145Z'
 title: mit Bach-Blüten Fotos & Essenzen
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-21-mit-bach-bluten-fotos-and-essenzen.md
 inFeed: true
 hasPage: false
 inNav: false
