@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-21T20:23:35.798Z'
+datePublished: '2016-08-21T20:24:52.149Z'
+sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 author: []
 via: {}
 metadata:
@@ -12,19 +13,18 @@ metadata:
   '@type': Article
   publisher: {}
   description: ''
-dateModified: '2016-08-21T20:23:08.537Z'
-title: ''
+dateModified: '2016-08-21T20:24:51.701Z'
+title: Lotus
 id: 9cb1a2c1-74dc-43f1-a182-dd6915e13e67
 publisher:
   name: 'Helmut Maier '
   url: 'http://flowerenergies.com/blueten-samen.html'
-description: 'Blüten und Samen Fotos und Essenzen '
+description: 'mit Blüten & Samen Fotos und Essenzen '
 starred: false
-sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![Blüten und Samen Fotos und Essenzen ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66acbb4d-11f1-4d60-8ee7-74758483c83f.jpg)
+![mit Blüten & Samen Fotos und Essenzen ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66acbb4d-11f1-4d60-8ee7-74758483c83f.jpg)
