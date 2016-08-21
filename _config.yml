@@ -1,0 +1,14 @@
+layout_spectrum: 0.4815029841847718
+typography_spectrum: 0.42836687224917114
+color:
+  brandStrength: 0.4629977100994438
+  lightness: 0.9616252847481519
+  saturation: 0.2107110908254981
+  rhythmicContrast: 0.3409546995535493
+  brandColors:
+    - '#000000'
+    - '#2F5231'
+    - '#5385DA'
+    - '#F5D705'
+    - '#F5F5DB'
+name: flower power
