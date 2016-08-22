@@ -17,9 +17,6 @@ author:
   url: 'http://helmutmaier.berlin'
 name: Healing Flower Power
 navigation:
-  - name: Orchideen-Essenzen
-    url: 'http://healingorchids.at'
-    type: external
   - name: Widerstände auflösen
     url: 'http://heilpraxismaier.de'
     type: external
