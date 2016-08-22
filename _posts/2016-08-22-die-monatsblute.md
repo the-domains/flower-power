@@ -1,24 +1,24 @@
 ---
 description: Die Monatsblüte
-dateModified: '2016-08-22T20:39:30.259Z'
-datePublished: '2016-08-22T20:40:30.640Z'
+dateModified: '2016-08-22T20:34:24.114Z'
+datePublished: '2016-08-22T20:40:33.605Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2016-08-22-die-monatsblute.md
 starred: false
+sourcePath: _posts/2016-08-22-die-monatsblute.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd687d60-2488-409e-bdbf-a1c38637a4fb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/757a2eba-d38b-44c0-9d6e-88796d87bbb3.jpg)
 
 **Die Monatsblüte**
 
-Die Monatsblüte ist eines unserer Angebote,**Blüten-Energien der Bach-Blüten** und **anderer Blüten****über deren Fotos direkt im Alltag anzuwenden:**
+Die Monatsblüte ist eines unserer Angebote,**Blüten-Energien der Bach-Blüten** und **anderer Blütenüber deren Fotos direkt im Alltag anzuwenden:**
 
 * z**ur Bewußtwerdung der eigenen Lebensthemen**
 * * **zur Selbstheilung und Energetisierung von Trinkwasser \***
