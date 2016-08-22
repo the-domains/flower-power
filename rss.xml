@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Die Schwingung macht's]]></title>
         <description><![CDATA[Die Schwingung macht's]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flower-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 19:39:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Aug 2016 19:40:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flower-power/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mit Bach-Blüten Fotos & Essenzen]]></title>
             <description><![CDATA[<article><h1>mit Bach-Blüten Fotos & Essenzen</h1><p>http://flowerenergies.com/bach-blueten.html</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e199758-71a9-4ede-a875-950536f10a6c.jpg"></article>]]></description>
             <link>http://flowerenergies.com/bach-blueten.html</link>
             <guid isPermaLink="false">cc821d2b-f4d1-4abc-88a9-577be358d253</guid>
             <pubDate>Mon, 22 Aug 2016 19:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mit Blüten & Samen Fotos und Essenzen]]></title>
+            <description><![CDATA[<article><h1>mit Blüten & Samen Fotos und Essenzen</h1><p>http://flowerenergies.com/blueten-samen.html</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66acbb4d-11f1-4d60-8ee7-74758483c83f.jpg"></article>]]></description>
+            <link>http://flowerenergies.com/blueten-samen.html</link>
+            <guid isPermaLink="false">18cc4053-1994-4a3d-8846-66d078958ab8</guid>
+            <pubDate>Mon, 22 Aug 2016 19:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
