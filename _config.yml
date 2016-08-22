@@ -20,9 +20,6 @@ navigation:
   - name: Bach Blüten Fotos
     id: 9c87444b-ad8c-4b44-a203-d018bfb21111
     type: content
-  - name: Bach-Blüten Fotos & Essenzen
-    id: cc821d2b-f4d1-4abc-88a9-577be358d253
-    type: content
   - name: Orchideen Essenzen & Sprays
     id: 2dd69777-36e4-4a16-9fb2-daeac2090a3f
     type: content
