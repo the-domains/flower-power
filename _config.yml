@@ -17,9 +17,6 @@ author:
   url: 'http://helmutmaier.berlin'
 name: Healing Flower Power
 navigation:
-  - name: Bach-Blüten-Fotos
-    url: 'http://flowerenergies.com'
-    type: external
   - name: Orchideen-Essenzen
     url: 'http://healingorchids.de'
     type: external
