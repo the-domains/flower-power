@@ -17,9 +17,6 @@ author:
   url: 'http://helmutmaier.berlin'
 name: Healing Flower Power
 navigation:
-  - name: Widerstände auflösen
-    url: 'http://heilpraxismaier.de'
-    type: external
   - name: Bach Blüten Fotos
     id: 9c87444b-ad8c-4b44-a203-d018bfb21111
     type: content
