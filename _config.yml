@@ -18,9 +18,6 @@ author:
 name: Healing Flower Power
 navigation:
   - name: Orchideen-Essenzen
-    url: 'http://healingorchids.de'
-    type: external
-  - name: Orchideen-Essenzen
     url: 'http://healingorchids.at'
     type: external
   - name: Widerstände auflösen
