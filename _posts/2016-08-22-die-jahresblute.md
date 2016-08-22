@@ -1,7 +1,7 @@
 ---
 description: Die Jahresblüte
-dateModified: '2016-08-22T20:40:22.260Z'
-datePublished: '2016-08-22T20:40:24.778Z'
+dateModified: '2016-08-22T20:39:26.881Z'
+datePublished: '2016-08-22T20:40:27.697Z'
 title: ''
 author: []
 publisher: {}
