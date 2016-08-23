@@ -1,6 +1,8 @@
 ---
-datePublished: '2016-08-22T20:40:11.769Z'
+datePublished: '2016-08-23T05:54:58.184Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -35,15 +37,14 @@ metadata:
   id: 18cc4053-1994-4a3d-8846-66d078958ab8
   publisher: {}
   description: 'http://flowerenergies.com/blueten-samen.html'
-dateModified: '2016-08-22T20:39:10.174Z'
+dateModified: '2016-08-23T05:54:57.742Z'
 title: mit Blüten & Samen Fotos und Essenzen
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
 description: 'http://flowerenergies.com/blueten-samen.html'
-hasPage: true
 starred: false
 url: mit-bluten-and-samen-fotos-und-essenzen/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66acbb4d-11f1-4d60-8ee7-74758483c83f.jpg)
