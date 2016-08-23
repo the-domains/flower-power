@@ -1,6 +1,8 @@
 ---
-datePublished: '2016-08-22T20:40:16.265Z'
+datePublished: '2016-08-23T05:55:13.505Z'
 sourcePath: _posts/2016-08-22-mit-orchideen-essenzen-and-sprays.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -14,15 +16,14 @@ metadata:
   author: []
   publisher: {}
   via: {}
-dateModified: '2016-08-22T20:39:23.452Z'
+dateModified: '2016-08-23T05:55:13.020Z'
 title: mit Orchideen Essenzen & Sprays
 id: 2dd69777-36e4-4a16-9fb2-daeac2090a3f
 publisher: {}
 description: 'http://healingorchids.de'
-hasPage: true
 starred: false
 url: mit-orchideen-essenzen-and-sprays/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e96f297-8296-4e7e-bdf4-bd8928521d86.jpg)
