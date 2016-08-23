@@ -1,17 +1,15 @@
 ---
-description: Die Jahresblüte
-dateModified: '2016-08-22T20:51:15.145Z'
-datePublished: '2016-08-22T21:10:33.542Z'
-title: ''
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-23T05:55:30.760Z'
 sourcePath: _posts/2016-08-22-die-jahresblute.md
-starred: false
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author: []
+via: {}
+dateModified: '2016-08-23T05:55:30.277Z'
+title: ''
+publisher: {}
+description: Die Jahresblüte
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84084426-6839-4fb3-b048-fb6fec3377f0.jpg)
