@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-22T21:10:40.174Z'
+datePublished: '2016-08-23T05:55:41.997Z'
 sourcePath: _posts/2016-08-22-die-monatsblute.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-22T21:09:58.358Z'
+dateModified: '2016-08-23T05:55:41.407Z'
 title: ''
 publisher: {}
 description: Die Monatsblüte
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd687d60-2488-409e-bdbf-a1c38637a4fb.jpg)
