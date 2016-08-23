@@ -1,17 +1,15 @@
 ---
-description: Die "Entdeckung" der Bach-Blüten als Essenzen
-dateModified: '2016-08-22T20:51:21.781Z'
-datePublished: '2016-08-22T21:10:36.587Z'
-title: ''
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-23T05:55:51.478Z'
 sourcePath: _posts/2016-08-22-die-entdeckung-der-bach-bluten-als-essenzen.md
-starred: false
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author: []
+via: {}
+dateModified: '2016-08-23T05:55:50.965Z'
+title: ''
+publisher: {}
+description: Die "Entdeckung" der Bach-Blüten als Essenzen
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7be156-b3aa-4454-80fd-fb501f66c97a.jpg)
