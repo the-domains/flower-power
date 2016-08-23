@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-22T20:40:02.948Z'
+datePublished: '2016-08-23T05:54:44.919Z'
 sourcePath: _posts/2016-08-21-mit-bach-bluten-fotos-and-essenzen.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
@@ -25,7 +26,7 @@ metadata:
   id: cc821d2b-f4d1-4abc-88a9-577be358d253
   publisher: {}
   description: 'http://flowerenergies.com/bach-blueten.html'
-dateModified: '2016-08-22T20:38:54.097Z'
+dateModified: '2016-08-23T05:54:44.336Z'
 title: mit Bach-Blüten Fotos & Essenzen
 id: cc821d2b-f4d1-4abc-88a9-577be358d253
 publisher: {}
@@ -34,7 +35,7 @@ description: >-
   und faß dir wagemutig ein Herz !
 starred: false
 url: mit-bach-bluten-fotos-and-essenzen/index.html
-_type: MediaObject
+_type: Article
 
 ---
 Hier steht Rock Rose, die erste Blüte im System - geh aus deiner Panik raus und faß dir wagemutig ein Herz !
