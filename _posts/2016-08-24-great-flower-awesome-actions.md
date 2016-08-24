@@ -1,20 +1,16 @@
 ---
-datePublished: '2016-08-24T09:03:01.257Z'
+datePublished: '2016-08-24T09:05:30.873Z'
+sourcePath: _posts/2016-08-24-great-flower-awesome-actions.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T09:03:00.659Z'
+dateModified: '2016-08-24T09:05:30.186Z'
 title: ''
 id: a2186ba2-8cb7-47cc-8f3e-058d413e54c6
 publisher: {}
-description: Great flower - awesome actions
+description: 'Hallo, was ist denn eine caption'
 starred: false
-sourcePath: _posts/2016-08-24-great-flower-awesome-actions.md
 _type: Blurb
 
 ---
 ![Hallo, was ist denn eine caption](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e637452-09a8-4f73-a0b0-b81e52120538.jpg)
-
-Great flower - awesome actions
-
-http://flowerenergies.com
