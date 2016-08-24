@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-24T18:53:58.973Z'
+datePublished: '2016-08-24T18:56:11.709Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T18:53:58.524Z'
+dateModified: '2016-08-24T18:56:11.178Z'
 title: mit Blüten & Samen Fotos und Essenzen
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
-description: 'Blüten & Samen '
+description: Blüten & Samen
 starred: false
 url: mit-bluten-and-samen-fotos-und-essenzen/index.html
 _type: Article
