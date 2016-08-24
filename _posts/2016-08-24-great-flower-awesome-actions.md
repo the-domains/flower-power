@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-24T09:05:30.873Z'
+datePublished: '2016-08-24T09:08:47.920Z'
 sourcePath: _posts/2016-08-24-great-flower-awesome-actions.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T09:05:30.186Z'
+dateModified: '2016-08-24T09:08:47.420Z'
 title: ''
 id: a2186ba2-8cb7-47cc-8f3e-058d413e54c6
-publisher: {}
+publisher:
+  name: Helmut Maier
 description: 'Hallo, was ist denn eine caption'
 starred: false
 _type: Blurb
