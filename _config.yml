@@ -1,16 +1,16 @@
-typography_spectrum: 0.42836687224917114
+layout_spectrum: 0.7598836326505989
+typography_spectrum: 0.5011310195550323
 color:
-  brandStrength: 0.4629977100994438
-  lightness: 0.9616252847481519
-  saturation: 0.2107110908254981
-  rhythmicContrast: 0.3409546995535493
+  brandStrength: 0.36035646847449243
+  lightness: 0.2671389526221901
+  saturation: 0.5543697474058717
+  rhythmicContrast: 0.31167627149261534
   brandColors:
-    - '#000000'
-    - '#2F5231'
-    - '#5385DA'
-    - '#F5D705'
-    - '#F5F5DB'
-layout_spectrum: 0.4815029841847718
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 author:
   name: Helmut Maier
   email: mail@helmutmaier.berlin
