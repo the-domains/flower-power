@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-26T21:42:53.098Z'
+datePublished: '2016-08-26T21:47:06.026Z'
 sourcePath: _posts/2016-08-26-die-monatsblute.md
 author: []
 via: {}
-dateModified: '2016-08-26T21:42:52.456Z'
+dateModified: '2016-08-26T21:47:05.514Z'
 title: Die Monatsblüte
 id: d24cacfb-3e0c-4a64-b600-bc32c3b2a773
 publisher: {}
