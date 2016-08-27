@@ -20,5 +20,8 @@ navigation:
   - name: Bach Blüten
     id: f3a9fcf1-8cd7-4c0c-b41d-ac378cee3a60
     type: content
+  - name: Blüten & Samen
+    id: 18cc4053-1994-4a3d-8846-66d078958ab8
+    type: content
 title: Die Schwingung macht's
 description: Aktiviere dein Potential
