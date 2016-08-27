@@ -26,5 +26,8 @@ navigation:
   - name: Orchideen Essenzen
     id: 2dd69777-36e4-4a16-9fb2-daeac2090a3f
     type: content
+  - name: Heil Praxis
+    id: f778ad74-0485-4040-a1f4-79c049325afc
+    type: content
 title: Die Schwingung macht's
 description: Aktiviere dein Potential
