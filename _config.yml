@@ -16,5 +16,9 @@ author:
   email: mail@helmutmaier.berlin
   url: 'http://helmutmaier.berlin'
 name: (Blüten) Heil Kraft
+navigation:
+  - name: Bach Blüten
+    id: d24cacfb-3e0c-4a64-b600-bc32c3b2a773
+    type: content
 title: Die Schwingung macht's
 description: Aktiviere dein Potential
