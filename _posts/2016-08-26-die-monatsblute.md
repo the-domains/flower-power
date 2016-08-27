@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-26T21:47:06.026Z'
+datePublished: '2016-08-26T21:53:16.733Z'
 sourcePath: _posts/2016-08-26-die-monatsblute.md
 author: []
 via: {}
-dateModified: '2016-08-26T21:47:05.514Z'
+dateModified: '2016-08-26T21:53:16.258Z'
 title: Die Monatsblüte
 id: d24cacfb-3e0c-4a64-b600-bc32c3b2a773
 publisher: {}
@@ -25,9 +25,9 @@ _type: MediaObject
 > _Die intuitive 'Arbeit' mit den Bachblüten ist einfach genial. Es macht so viel Spaß und trifft die Sache immer auf den Punkt._  
 > Jochen B. (Deutschland)
 
-## Hier geht's zur ersten gratis - **[Schnupper-Blüte][0]**
+# Hier geht's zur ersten gratis - **[Schnupper-Blüte][0]**
 
-## Tolle Erfahrungen mit der - **[Monatsblüte][1]**
+# Tolle Erfahrungen mit der - **[Monatsblüte][1]**
 
 [0]: http://flowerenergies.com/mbl-anfordern.html
 [1]: http://flowerenergies.com/erfahrungen.html
