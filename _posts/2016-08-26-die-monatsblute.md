@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-26T21:53:16.733Z'
+datePublished: '2016-08-26T22:04:23.425Z'
 sourcePath: _posts/2016-08-26-die-monatsblute.md
 author: []
 via: {}
-dateModified: '2016-08-26T21:53:16.258Z'
+dateModified: '2016-08-26T22:04:22.804Z'
 title: Die Monatsblüte
 id: d24cacfb-3e0c-4a64-b600-bc32c3b2a773
 publisher: {}
 description: >-
   Die intuitive ‘Arbeit’ mit den Bachblüten ist einfach genial. Es macht so viel
-  Spaß und trifft die Sache immer auf den Punkt. Jochen B. (Deutschland)
+  Spaß und trifft die Sache immer auf den Punkt.Jochen B. (Deutschland)
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: die-monatsblute/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/253163a9-5834-481e-8fd1-9045ed7d8702.png)
