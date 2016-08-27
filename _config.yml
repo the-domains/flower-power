@@ -1,4 +1,3 @@
-layout_spectrum: 0.4453005092218518
 typography_spectrum: 0.8990757009014487
 color:
   brandStrength: 0.36035646847449243
@@ -11,15 +10,13 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.4453005092218518
 author:
   name: Helmut Maier
   email: mail@helmutmaier.berlin
   url: 'http://helmutmaier.berlin'
 name: (Blüten) Heil Kraft
 navigation:
-  - name: Bach Blüten
-    id: f3a9fcf1-8cd7-4c0c-b41d-ac378cee3a60
-    type: content
   - name: Blüten & Samen
     id: 18cc4053-1994-4a3d-8846-66d078958ab8
     type: content
