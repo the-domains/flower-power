@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-08-26T21:38:17.592Z'
+datePublished: '2016-08-26T21:42:53.098Z'
+sourcePath: _posts/2016-08-26-die-monatsblute.md
 author: []
 via: {}
-dateModified: '2016-08-26T21:38:17.045Z'
+dateModified: '2016-08-26T21:42:52.456Z'
 title: Die Monatsblüte
 id: d24cacfb-3e0c-4a64-b600-bc32c3b2a773
 publisher: {}
@@ -10,7 +11,6 @@ description: >-
   Die intuitive ‘Arbeit’ mit den Bachblüten ist einfach genial. Es macht so viel
   Spaß und trifft die Sache immer auf den Punkt. Jochen B. (Deutschland)
 starred: false
-sourcePath: _posts/2016-08-26-die-monatsblute.md
 inFeed: true
 hasPage: false
 inNav: false
