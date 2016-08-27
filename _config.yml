@@ -1,4 +1,5 @@
-typography_spectrum: 0.6529522626660764
+layout_spectrum: 0.4453005092218518
+typography_spectrum: 0.8990757009014487
 color:
   brandStrength: 0.36035646847449243
   lightness: 0.2671389526221901
@@ -10,7 +11,6 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.3562228656373918
 author:
   name: Helmut Maier
   email: mail@helmutmaier.berlin
