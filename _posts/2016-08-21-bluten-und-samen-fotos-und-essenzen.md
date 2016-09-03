@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-31T21:06:25.918Z'
+datePublished: '2016-08-31T21:34:40.897Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:06:25.398Z'
+dateModified: '2016-08-31T21:34:40.077Z'
 title: Blüten & Samen
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
 description: >-
-  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!! Da
+  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!!  Da
   kommen ja richtige Persönlichkeiten zum Ausdruck! Der Lotus ist schon länger
   mein Begleiter- das Foto fand ich einfach sehr schön.Die Walnussfrau ist ja
   unglaublich präsent und soooo goldig! Interessant fand ich , dass Frauen auch
@@ -38,6 +38,7 @@ _type: Article
 > Susanne F. (Deutschland)
 
 ## Entdecke die Strahlkraft der Blüten- & Samen-Fotos hier -- _**[http://flowerenergies.com/blueten-samen.html][0]**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e19018a-1459-4c7f-9d1f-7a3080a2307c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15226302-36b1-40fd-87a9-7ca0cd3a44e7.png)
 
 # Blüten im Raum der Beziehungen zuhause
@@ -60,6 +61,7 @@ _type: Article
 > Anna M. (Deutschland)
 
 ## Blüten-Fotoposter der Blüten & Samen gibt es in 30x45cm, 40x60cm, 50x75cm - _**[http://www.bach-blueten-fotos.com][1]**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6f80147-d256-44b9-a9f9-153f1f1b8f7e.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/255bfc73-8c40-4874-b94e-2b9cec57b5ff.png)
 
 # Blüten im Raum der Heilarbeit
