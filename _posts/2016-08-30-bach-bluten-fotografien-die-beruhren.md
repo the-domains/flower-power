@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-31T20:55:31.336Z'
+datePublished: '2016-08-31T21:04:12.942Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:55:30.686Z'
+dateModified: '2016-08-31T21:04:12.334Z'
 title: 'Bach Blüten Fotografien, die berühren'
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
 description: >-
   Ich freue mich sehr über die Bachblütenkarten. Von der unglaublich hohen
-  Qualität und Ausdruckskraft bin ich beeindruckt und begeistert.Gudrun L.
+  Qualität und Ausdruckskraft bin ich beeindruckt und begeistert. Gudrun L.
   (Deutschland)
 starred: false
 url: bach-bluten-fotografien-die-beruhren/index.html
@@ -26,7 +26,7 @@ _type: Article
 > _Ich freue mich sehr über die Bachblütenkarten. Von der unglaublich hohen Qualität und Ausdruckskraft bin ich beeindruckt und begeistert._  
 > Gudrun L. (Deutschland)
 
-## Hier geht's zum visuellen Baden in den Blüten-Fotos -_**[www.flowerenergies.com/bach-blueten-fotos.html][0]**_
+## Hier geht's zum visuellen Baden in den Blüten-Fotos - _**[www.flowerenergies.com/bach-blueten-fotos.html][0]**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aac74a1-b284-43b4-ac56-edd06ad29122.png)
 
 # Die Monatsblüte
@@ -94,7 +94,7 @@ _type: Article
 
 ## Kostenlose Blüten-Beratung mit Testservice, bevorzugt zwischen 12.30 und 13.30 Uhr, nur persönlich oder telefonisch unter Tel. _**0 33 22 -- 27 98 520**_
 
-[0]: http://www.flowerenergies.com/bach-blueten-fotos.html "www.flowerenergies.com/bach-blueten-fotos.html"
+[0]: http://flowerenergies.com/bach-blueten-fotos.html "http://flowerenergies.com/bach-blueten-fotos.html"
 [1]: http://www.flowerenergies.com/schnuppermonatsbluete.html "http://www.flowerenergies.com/schnuppermonatsbluete.html"
 [2]: http://www.flowerenergies.com/erfahrungen.html "http://www.flowerenergies.com/erfahrungen.html"
 [3]: http://www.flowerenergies.com/die-jahresbluete-jbl.html "http://www.flowerenergies.com/die-jahresbluete-jbl.html"
