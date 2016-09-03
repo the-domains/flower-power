@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-31T21:35:49.286Z'
+datePublished: '2016-08-31T21:36:27.196Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:35:48.459Z'
+dateModified: '2016-08-31T21:36:26.584Z'
 title: Blüten & Samen zur Selbstentfaltung
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
 description: >-
-  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!!  Da
+  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!! Da
   kommen ja richtige Persönlichkeiten zum Ausdruck! Der Lotus ist schon länger
   mein Begleiter- das Foto fand ich einfach sehr schön.Die Walnussfrau ist ja
   unglaublich präsent und soooo goldig! Interessant fand ich , dass Frauen auch
