@@ -1,23 +1,15 @@
 ---
-datePublished: '2016-09-01T05:48:13.356Z'
+datePublished: '2016-09-01T08:43:15.700Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T05:48:12.750Z'
+dateModified: '2016-09-01T08:43:14.832Z'
 title: Blüten & Samen Schönheiten
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
-description: >-
-  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!!  Da
-  kommen ja richtige Persönlichkeiten zum Ausdruck! Der Lotus ist schon länger
-  mein Begleiter- das Foto fand ich einfach sehr schön.Die Walnussfrau ist ja
-  unglaublich präsent und soooo goldig! Interessant fand ich , dass Frauen auch
-  ein Monster darin sehen können- tja, so unterschiedlich sehen wir.Mein
-  Eindruck war sofort- das ist eine starke unkonventionelle Schönheit mit sehr
-  auffälliger und witziger Frisur! :-) Sie hat mich sofort angesprochen und
-  gesagt: steh zu dir! Schau- ich kanns auch!Susanne F. (Deutschland)
+description: ''
 starred: false
 url: bluten-and-samen/index.html
 _type: Article
@@ -29,7 +21,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab72fd06-0e2e-4d21-b2d0-fb8b09f1cc53.png)
 
 # Blüten & Samen zur Selbstentfaltung
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ea6fbc-2831-4072-ae44-dda70a745988.png)
 
 > _Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!! _  
 > _Da kommen ja richtige Persönlichkeiten zum Ausdruck! Der Lotus ist schon länger mein Begleiter- das Foto fand ich einfach sehr schön._
@@ -41,10 +32,11 @@ _type: Article
 > Susanne F. (Deutschland)
 
 ## Entdecke die Strahlkraft der Blüten- & Samen-Fotos hier -- _**[http://flowerenergies.com/blueten-samen.html][0]**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d22f368-baa2-48c0-bc52-5e7ef8967d86.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c3feee-55ae-4847-a700-be2b6a1be2ca.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15226302-36b1-40fd-87a9-7ca0cd3a44e7.png)
 
 # Blüten im Raum der Beziehungen zuhause
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89001b2b-c331-4866-9d86-be5ca6d072b0.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24302e7-7591-441e-a8b0-0972837afa3b.png)
 
 > _Ganz kurz noch zu unserer Calla-Blüte im Schlafzimmer._
@@ -62,6 +54,8 @@ _type: Article
 > _Meine anfängliche Reaktion ihr gegenüber ist mittlerweile für mich ganz unverständlich geworden -- nach dem Motto, wie konnte ich mich nur so anstellen._
 > 
 > Anna M. (Deutschland)
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9df1e605-25a9-475c-9323-9d8aa4f8db4f.png)
 
 ## Blüten-Fotoposter der Blüten & Samen gibt es in 30x45cm, 40x60cm, 50x75cm - _**[http://www.bach-blueten-fotos.com][1]**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50e3873a-0a75-49e0-b039-1d57637cfde0.png)
