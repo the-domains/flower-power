@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-09-01T05:09:14.859Z'
+datePublished: '2016-09-01T08:37:10.732Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T05:09:14.189Z'
+dateModified: '2016-09-01T08:37:10.013Z'
 title: Faszinierende Bach Blüten
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
-description: >-
-  Ich freue mich sehr über die Bachblütenkarten. Von der unglaublich hohen
-  Qualität und Ausdruckskraft bin ich beeindruckt und begeistert. Gudrun L.
-  (Deutschland)
+description: ''
 starred: false
 url: bach-bluten-fotografien-die-beruhren/index.html
 _type: Article
@@ -21,25 +18,25 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bd3d9b0-5849-4029-a7f7-3bae83b043b2.png)
 
 # Faszinierende Bach Blüten
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c0ee6d-73f3-4f01-abe6-ed4064bd6864.png)
 
 # Bach Blüten Fotografien, die berühren
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12488387-5b98-473b-b73c-020e155649df.png)
 
 > _Ich freue mich sehr über die Bachblütenkarten. Von der unglaublich hohen Qualität und Ausdruckskraft bin ich beeindruckt und begeistert._  
 > Gudrun L. (Deutschland)
 
 ## Hier geht's zum visuellen Baden in den Blüten-Fotos - _**[www.flowerenergies.com/bach-blueten-fotos.html][0]**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/446e40a5-2458-4e17-9899-a4eb54fe9493.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aac74a1-b284-43b4-ac56-edd06ad29122.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc97ae6-160f-47a5-b00a-a0e61a601bdf.png)
 
 # Die Monatsblüte
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56bd032f-da50-4e5e-8957-dace205ea3f6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0614857-782e-401e-992e-c1ee43e4b41f.png)
 
 > _Die intuitive "Arbeit mit den Bachblüten ist einfach genial. Es macht so viel Spaß und trifft die Sache immer auf den Punkt_.  
 > Jochen B. (Deutschland)
 
 ## Hier gibt's die erste gratis Schnupper-Blüte - _**[http://www.flowerenergies.com/schnuppermonatsbluete.html][1]**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3de112c1-f39d-4ba5-bbff-c816e564a8f4.png)
 
 ## Tolle Erfahrungen mit der Monatsblüte - _**[http://www.flowerenergies.com/erfahrungen.html][2]**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ca048b-8956-49ee-8583-05926dd99d9b.png)
