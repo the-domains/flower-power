@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-31T21:04:12.942Z'
+datePublished: '2016-08-31T21:06:05.702Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:04:12.334Z'
+dateModified: '2016-08-31T21:06:04.805Z'
 title: 'Bach Blüten Fotografien, die berühren'
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
 description: >-
   Ich freue mich sehr über die Bachblütenkarten. Von der unglaublich hohen
-  Qualität und Ausdruckskraft bin ich beeindruckt und begeistert. Gudrun L.
+  Qualität und Ausdruckskraft bin ich beeindruckt und begeistert.Gudrun L.
   (Deutschland)
 starred: false
 url: bach-bluten-fotografien-die-beruhren/index.html
