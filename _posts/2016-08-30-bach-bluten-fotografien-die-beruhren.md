@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T21:52:27.477Z'
+datePublished: '2016-08-31T21:57:31.573Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:52:26.620Z'
+dateModified: '2016-08-31T21:57:30.938Z'
 title: 'Bach Blüten Fotografien, die berühren'
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
@@ -27,7 +27,7 @@ _type: Article
 > Gudrun L. (Deutschland)
 
 ## Hier geht's zum visuellen Baden in den Blüten-Fotos - _**[www.flowerenergies.com/bach-blueten-fotos.html][0]**_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61ab0e42fbcf4223322ca88a40ea3a7db8c985c6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/446e40a5-2458-4e17-9899-a4eb54fe9493.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aac74a1-b284-43b4-ac56-edd06ad29122.png)
 
 # Die Monatsblüte
@@ -39,7 +39,7 @@ _type: Article
 ## Hier gibt's die erste gratis Schnupper-Blüte - _**[http://www.flowerenergies.com/schnuppermonatsbluete.html][1]**_
 
 ## Tolle Erfahrungen mit der Monatsblüte - _**[http://www.flowerenergies.com/erfahrungen.html][2]**_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb73708e19e9a7057b99152f90859f17d32c781a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ca048b-8956-49ee-8583-05926dd99d9b.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be3dcc6-ec1e-4af1-b313-411c87465b64.png)
 
 # Die Jahresblüte
