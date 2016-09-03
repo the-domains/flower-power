@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T08:57:38.240Z'
+datePublished: '2016-09-01T08:59:33.102Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T08:57:37.341Z'
+dateModified: '2016-09-01T08:59:15.498Z'
 title: Faszinierende Bach Blüten Fotos
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
@@ -27,10 +27,10 @@ _type: Article
 > Gudrun L. (Deutschland)
 
 ## Hier geht's zum visuellen Baden in den Blüten-Fotos - _**[www.flowerenergies.com/bach-blueten-fotos.html][0]**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/decbee6a-a977-4736-9019-11e4c1989d4b.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aac74a1-b284-43b4-ac56-edd06ad29122.png)
 
 # Die Monatsblüte
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56bd032f-da50-4e5e-8957-dace205ea3f6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0614857-782e-401e-992e-c1ee43e4b41f.png)
 
 > _Die intuitive "Arbeit mit den Bachblüten ist einfach genial. Es macht so viel Spaß und trifft die Sache immer auf den Punkt_.  
