@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-31T20:44:09.525Z'
+datePublished: '2016-08-31T20:45:24.586Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
-hasPage: true
+isBasedOnUrl: 'http://flowerenergies.com/blueten-samen.html'
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-31T20:44:08.919Z'
+dateModified: '2016-08-31T20:45:24.059Z'
 title: Blüten & Samen
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
@@ -19,8 +20,7 @@ description: >-
   auffälliger und witziger Frisur! :-) Sie hat mich sofort angesprochen und
   gesagt: steh zu dir! Schau- ich kanns auch!Susanne F. (Deutschland)
 starred: false
-url: bluten-and-samen/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab72fd06-0e2e-4d21-b2d0-fb8b09f1cc53.png)
@@ -65,9 +65,9 @@ _type: Article
 # Blüten im Raum der Heilarbeit
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/775ba52d-4efb-46c5-bfc8-66fd48fa81db.png)
 
-> _Nun möchte ich mich einmal bei Ihnen melden um zu berichten. _
+> _Nun möchte ich mich einmal bei Ihnen melden um zu berichten._
 > 
-> _Ich habe zwischen Weihnachten und Neujahr meine Poster in der Praxis aufgehängt und bis jetzt nur positive Reaktionen bekommen. Besonders Larch hinter meinem Rücken, welche die Patienten beim Gespräch sehen, wirkt sehr intensiv. _
+> _Ich habe zwischen Weihnachten und Neujahr meine Poster in der Praxis aufgehängt und bis jetzt nur positive Reaktionen bekommen. Besonders Larch hinter meinem Rücken, welche die Patienten beim Gespräch sehen, wirkt sehr intensiv._
 > 
 > _Ich werde Ihre Blütenfotografien so wahrhaft weitertragen, wie sie gemeint sind. Ich bin sehr berührt von Ihrem Werk. Danke!_
 > 
