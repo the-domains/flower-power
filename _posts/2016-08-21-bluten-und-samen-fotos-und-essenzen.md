@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T21:34:40.897Z'
+datePublished: '2016-08-31T21:35:49.286Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:34:40.077Z'
-title: Blüten & Samen
+dateModified: '2016-08-31T21:35:48.459Z'
+title: Blüten & Samen zur Selbstentfaltung
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
 description: >-
@@ -25,7 +25,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab72fd06-0e2e-4d21-b2d0-fb8b09f1cc53.png)
 
-# Blüten & Samen
+# Blüten & Samen zur Selbstentfaltung
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ea6fbc-2831-4072-ae44-dda70a745988.png)
 
 > _Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!! _  
@@ -38,7 +38,7 @@ _type: Article
 > Susanne F. (Deutschland)
 
 ## Entdecke die Strahlkraft der Blüten- & Samen-Fotos hier -- _**[http://flowerenergies.com/blueten-samen.html][0]**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e19018a-1459-4c7f-9d1f-7a3080a2307c.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6b211a13d4b4fe400ccc44d7da7787d3/croprotate.jpg?cropheight=204&cropwidth=984&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3e19018a-1459-4c7f-9d1f-7a3080a2307c.jpg&x=8&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15226302-36b1-40fd-87a9-7ca0cd3a44e7.png)
 
 # Blüten im Raum der Beziehungen zuhause
