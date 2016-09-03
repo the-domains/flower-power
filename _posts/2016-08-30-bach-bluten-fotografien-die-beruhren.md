@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T21:57:31.573Z'
+datePublished: '2016-08-31T22:13:32.484Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:57:30.938Z'
-title: 'Bach Blüten Fotografien, die berühren'
+dateModified: '2016-08-31T22:13:31.549Z'
+title: Faszinierende Bach Blüten
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
 description: >-
@@ -18,6 +18,9 @@ url: bach-bluten-fotografien-die-beruhren/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bd3d9b0-5849-4029-a7f7-3bae83b043b2.png)
+
+# Faszinierende Bach Blüten
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c0ee6d-73f3-4f01-abe6-ed4064bd6864.png)
 
 # Bach Blüten Fotografien, die berühren
