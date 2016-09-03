@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T08:42:22.537Z'
+datePublished: '2016-09-01T08:43:38.412Z'
 sourcePath: _posts/2016-09-01-tief-reichende-orchideen.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T08:42:21.843Z'
+dateModified: '2016-09-01T08:43:37.884Z'
 title: Tief reichende Orchideen
 publisher: {}
 description: ''
