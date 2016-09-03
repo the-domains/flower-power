@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-09-01T06:32:36.698Z'
+datePublished: '2016-09-01T06:33:47.363Z'
 author: []
 via: {}
-dateModified: '2016-09-01T06:32:26.714Z'
+dateModified: '2016-09-01T06:33:46.731Z'
 title: Tief reichende Orchideen
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-01-tief-reichende-orchideen.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: tief-reichende-orchideen/index.html
 _context: 'http://schema.org'
 _type: Article
