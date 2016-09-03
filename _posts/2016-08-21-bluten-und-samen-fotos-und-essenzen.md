@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T22:14:05.519Z'
+datePublished: '2016-09-01T05:09:31.173Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:14:04.908Z'
+dateModified: '2016-09-01T05:09:28.239Z'
 title: Blüten & Samen Schönheiten
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
@@ -64,7 +64,7 @@ _type: Article
 > Anna M. (Deutschland)
 
 ## Blüten-Fotoposter der Blüten & Samen gibt es in 30x45cm, 40x60cm, 50x75cm - _**[http://www.bach-blueten-fotos.com][1]**_
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cc52cfc4da4f3c45ee25106a6f2c3c68/croprotate.png?cropheight=204&cropwidth=984&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff6f80147-d256-44b9-a9f9-153f1f1b8f7e.png&x=8&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dfd295b3f159d690f6e4b8f0d42c89ae234e2d6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/255bfc73-8c40-4874-b94e-2b9cec57b5ff.png)
 
 # Blüten im Raum der Heilarbeit
