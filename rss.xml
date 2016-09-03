@@ -4,7 +4,7 @@
         <description><![CDATA[Die Schwingung macht's]]></description>
         <link>http://helmutmaier.berlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 05:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 06:32:38 GMT</lastBuildDate>
         <atom:link href="http://helmutmaier.berlin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Faszinierende Bach Blüten]]></title>
@@ -19,6 +19,13 @@
             <link>http://helmutmaier.berlin/bluten-and-samen/index.html</link>
             <guid isPermaLink="false">18cc4053-1994-4a3d-8846-66d078958ab8</guid>
             <pubDate>Thu, 01 Sep 2016 05:48:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tief reichende Orchideen]]></title>
+            <description><![CDATA[<article><h1>Tief reichende Orchideen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/820185a5-6914-4ea7-8f80-cce121550854.png"></article>]]></description>
+            <link>http://helmutmaier.berlin/tief-reichende-orchideen/index.html</link>
+            <guid isPermaLink="false">612c3535-55c2-48e5-9e51-4628b1d1289a</guid>
+            <pubDate>Thu, 01 Sep 2016 06:32:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
