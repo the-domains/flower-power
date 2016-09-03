@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-01T06:33:47.363Z'
+datePublished: '2016-09-01T08:42:22.537Z'
+sourcePath: _posts/2016-09-01-tief-reichende-orchideen.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T06:33:46.731Z'
+dateModified: '2016-09-01T08:42:21.843Z'
 title: Tief reichende Orchideen
 publisher: {}
 description: ''
-sourcePath: _posts/2016-09-01-tief-reichende-orchideen.md
-hasPage: true
 starred: false
 url: tief-reichende-orchideen/index.html
 _context: 'http://schema.org'
@@ -19,9 +19,10 @@ _type: Article
 # Tief reichende Orchideen
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99a0ec5a-73cb-422e-91ca-7e599e437869.png)
 
-# Living Tree Orchideen Essenzen ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90caad2-a761-4690-b9ea-6840e905eee5.png)
+# Living Tree Orchideen Essenzen
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90caad2-a761-4690-b9ea-6840e905eee5.png)
 
-> Zur Essenz, der Haupt-Intention, dem Zweck der Orchideen die Worte von ihrem Begründer : 
+> Zur Essenz, der Haupt-Intention, dem Zweck der Orchideen die Worte von ihrem Begründer :
 > 
 > _Das Nächstliegende, zu dem ich gekommen bin, ist zu sagen, daß sie uns im Wesentlichen helfen wollen, uns wieder zu verbinden mit der Freude unserer spirituellen Natur, unseres spirituellen Seins._
 > 
@@ -32,5 +33,6 @@ _type: Article
 > Don Dennis (Scotland)
 
 ## Entdecke mehr über die Living Tree Orchideen Essenzen - _**[http://healingorchids.de][0]**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8657c94-8e1b-45e9-98dd-e767fb82702a.png)
 
 [0]: http://healingorchids.de/ "http://healingorchids.de"
