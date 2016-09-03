@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-31T20:45:24.586Z'
+datePublished: '2016-08-31T20:55:42.611Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
-isBasedOnUrl: 'http://flowerenergies.com/blueten-samen.html'
-hasPage: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:45:24.059Z'
+dateModified: '2016-08-31T20:55:41.432Z'
 title: Blüten & Samen
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
 description: >-
-  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!!  Da
+  Danke für die Bachblüten und für die wirklich wunderbaren Pflanzenfotos!! Da
   kommen ja richtige Persönlichkeiten zum Ausdruck! Der Lotus ist schon länger
   mein Begleiter- das Foto fand ich einfach sehr schön.Die Walnussfrau ist ja
   unglaublich präsent und soooo goldig! Interessant fand ich , dass Frauen auch
@@ -20,7 +19,8 @@ description: >-
   auffälliger und witziger Frisur! :-) Sie hat mich sofort angesprochen und
   gesagt: steh zu dir! Schau- ich kanns auch!Susanne F. (Deutschland)
 starred: false
-_type: MediaObject
+url: bluten-and-samen/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab72fd06-0e2e-4d21-b2d0-fb8b09f1cc53.png)
