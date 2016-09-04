@@ -29,5 +29,8 @@ navigation:
   - name: Heil Praxis
     id: f778ad74-0485-4040-a1f4-79c049325afc
     type: content
+  - name: flowerenergies.com
+    url: 'http://flowerenergies.com'
+    type: external
 title: Die Schwingung macht's
 description: Aktiviere dein Potential
