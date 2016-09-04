@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T08:59:33.102Z'
+datePublished: '2016-09-01T10:17:39.422Z'
 sourcePath: _posts/2016-08-30-bach-bluten-fotografien-die-beruhren.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T08:59:15.498Z'
+dateModified: '2016-09-01T10:17:38.846Z'
 title: Faszinierende Bach Blüten Fotos
 id: e94cb83d-817d-4511-aff6-f7a87d9e6434
 publisher: {}
