@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T08:43:15.700Z'
+datePublished: '2016-09-01T10:37:54.572Z'
 sourcePath: _posts/2016-08-21-bluten-und-samen-fotos-und-essenzen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T08:43:14.832Z'
+dateModified: '2016-09-01T10:37:53.896Z'
 title: Blüten & Samen Schönheiten
 id: 18cc4053-1994-4a3d-8846-66d078958ab8
 publisher: {}
